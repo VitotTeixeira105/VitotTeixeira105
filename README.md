@@ -29,6 +29,8 @@
 
 </div><br/><br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitotTeixeira105)](https://github.com/anuraghazra/github-readme-stats)
+
 Apaixonado por tecnologia, inovação & ciência <br>
 Adoro também jogar e de desenhos animados
 - One piece
