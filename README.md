@@ -38,10 +38,6 @@ Adoro também jogar e de desenhos animados
 - Sonic
 - Minecraft
 
-## Últimos videos:
-- [estudante CRIAR WEB SITE PESSOAL #2 , COM HTML, CSS & JavaScript !](https://youtu.be/wx--jlXCZ9o) <br>
-- [estudante CRIAR WEB SITE PESSOAL #1 , COM HTML & CSS !](https://youtu.be/bhEaKHb4do0)
-
 ## Contactos
 - vitorteixeiracontacto@gmail.com
 
